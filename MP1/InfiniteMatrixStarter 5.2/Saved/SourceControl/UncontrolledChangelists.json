@@ -5,6 +5,8 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"C:/CS415/MP1/InfiniteMatrixStarter 5.2/Content/InfiniteMatrix/Blueprints/BP_EnemySpawner.uasset",
+				"C:/CS415/MP1/InfiniteMatrixStarter 5.2/Content/InfiniteMatrix/Maps/TutorialMap.umap",
 				"C:/CS415/InfiniteMatrixStarter 5.2/Content/InfiniteMatrix/Blueprints/BP_Player.uasset",
 				"C:/CS415/InfiniteMatrixStarter 5.2/Content/Blueprints/BP_TunnelSpawner.uasset",
 				"C:/CS415/InfiniteMatrixStarter 5.2/Content/InfiniteMatrix/Blueprints/BP_Tunnel.uasset",

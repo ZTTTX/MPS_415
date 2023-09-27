@@ -1,0 +1,40 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/CS415/MP2/MyMP 5.2/Content/mpLevel.umap",
+				"C:/CS415/MP2/MyMP 5.2/Content/LearningKit_Games/Blueprints/PlayerCharacter/BP_LearningKit_PlayerCharacter.uasset",
+				"C:/CS415/MP2/MyMP 5.2/Content/My_BP/BP_HealthWidget.uasset",
+				"C:/CS415/MP2/MyMP 5.2/Content/My_BP/BP_ScoreWidget.uasset",
+				"C:/CS415/MP2/MyMP 5.2/Content/My_BP/BP_Restart.uasset",
+				"C:/CS415/MP2/MyMP 5.2/Content/My_BP/BP_Pursuer.uasset",
+				"C:/CS415/MP2/MyMP 5.2/Content/ThirdPerson/Input/IMC_Default.uasset",
+				"C:/CS415/MP2/MyMP 5.2/Content/My_BP/BP_PursuerEnum.uasset",
+				"C:/CS415/MP2/MyMP 5.2/Content/My_BP/BP_PursuerController.uasset",
+				"C:/games/UE_5.2/Engine/Content/VREditor/BasicMeshes/M_Floor_01.uasset",
+				"C:/games/UE_5.2/Engine/Content/VREditor/BasicMeshes/MI_Pyramid_01.uasset",
+				"C:/CS415/MP2/MyMP 5.2/Content/My_BP/BP_MortarAmmo.uasset",
+				"C:/CS415/MP2/MyMP 5.2/Content/My_BP/BP_Mortar.uasset",
+				"C:/CS415/MP2/MyMP 5.2/Content/My_BP/BP_AngelController.uasset",
+				"C:/CS415/MP2/MyMP 5.2/Content/My_BP/BP_Angel.uasset",
+				"C:/CS415/MP2/MyMP 5.2/Content/My_BP/Image.uasset",
+				"C:/CS415/MP2/MyMP 5.2/Content/My_BP/Image_Mat.uasset",
+				"C:/CS415/MP2/MyMP 5.2/Content/My_BP/BP_HealthPack.uasset",
+				"C:/CS415/MP2/MyMP 5.2/Content/My_BP/BP_Key.uasset",
+				"C:/CS415/MP2/MyMP 5.2/Content/My_BP/BP_GameWin.uasset",
+				"C:/CS415/MP2/MyMP 5.2/Content/My_BP/BP_FAIL.uasset",
+				"C:/CS415/MP2/MyMP 5.2/Content/My_BP/BP_Gate.uasset",
+				"C:/CS415/MP2/MyMP 5.2/Content/Actual_Level.umap",
+				"C:/CS415/MP2/MyMP 5.2/Content/My_BP/BP_AngelSpawner.uasset",
+				"C:/CS415/MP2/MyMP 5.2/Content/My_BP/BP_Gate2.uasset",
+				"C:/CS415/MP2/MyMP 5.2/Content/LearningKit_Games/Assets/Architecture/Walls/SM_Kit_Wall_Straight.uasset",
+				"C:/CS415/MP2/MyMP 5.2/Content/My_BP/BP_hint.uasset",
+				"C:/CS415/MP2/MyMP 5.2/Content/Acutal_Level.umap",
+				"C:/CS415/MP2/MyMP 5.2/Content/My_BP/BP_MortarAmmo_EXP.uasset"
+			]
+		}
+	]
+}
